@@ -80,10 +80,10 @@ const Navigation = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          className="inline-flex items-center text-sm md:text-lg group hover:text-drip-black/80 border-r-2 border-drip-black/20"
+          className="pr-3 inline-flex items-center text-sm md:text-lg group hover:text-drip-black/80 border-r-2 border-drip-black/20"
           href={TWITTER_LINK}
         >
-          <i className="text-lg ri-twitter-line group-hover:-rotate-12 "></i>{" "}
+          <i className="text-lg ri-twitter-line group-hover:-rotate-12 pr-1"></i>{" "}
           Share on twitter
         </a>
       </div>
